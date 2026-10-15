@@ -3,7 +3,7 @@
 ## Integrantes del Equipo
 * Angel de Jesus Ordaz Gonzalez
 * Carlos Miguel Chávez Arredondo 
-* 
+* David Alejandro Ortiz Fuentes
 
 ## Contexto del Proyecto
 CargoBox es una empresa de envíos logísticos nacionales. En este repositorio se implementa una propuesta de arquitectura de software basada en **Domain-Driven Design (DDD)** para resolver los cuellos de botella operativos (trazabilidad, cálculo de tarifas e invariantes de entrega).
